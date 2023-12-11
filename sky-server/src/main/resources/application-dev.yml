@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tGuz38VyWXRJHS8872u
     access-key-secret: sZYqgnOJ2qUdPKhr8uPYmRv5zm1nT8
     bucket-name: guoshenghuizhao
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 0
