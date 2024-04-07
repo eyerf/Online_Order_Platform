@@ -52,3 +52,18 @@
 - junit：单元测试工具，开发人员功能实现完毕后，需要通过junit对功能进行单元测试。
 - postman: 接口测工具，模拟用户发起的各类HTTP请求，获取对应的响应结果。
 
+对工程的每个模块作用说明：
+- Online_Order_Platform: maven父工程，统一管理依赖版本，聚合其他子模块
+- platform_common: 子模块，存放公共类，例如：工具类、常量类、异常类等
+- platform_pojo: 子模块，存放实体类、VO、DTO等
+- platform_server: 子模块，后端服务，存放配置文件、Controller、Service、Mapper等
+
+对platform_common模块下每个包具体作用的说明：
+- constant: 存放相关常量类
+- context: 存放上下文类
+- enumeration: 存放项目的枚举类
+- exception: 存放自定义异常类
+- json: 处理json转换的类
+- properties: 存放SpringBoot相关的配置属性类
+- result: 返回结果类的封装
+- utils: 常用工具类
