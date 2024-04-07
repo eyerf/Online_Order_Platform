@@ -15,7 +15,7 @@
     <modules>
         <module>platform_common</module>
         <module>platform_pojo</module>
-        <module>sky-server</module>
+        <module>platform_server</module>
     </modules>
     <properties>
         <mybatis.spring>2.2.0</mybatis.spring>
