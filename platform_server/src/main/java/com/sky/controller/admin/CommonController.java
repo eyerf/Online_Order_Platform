@@ -1,7 +1,6 @@
 package com.sky.controller.admin;
 
-import com.sky.annotation.AutoFill;
-import com.sky.constant.MessageConstant;
+import com.constant.MessageConstant;
 import com.sky.result.Result;
 import com.sky.utils.AliOssUtil;
 import io.swagger.annotations.Api;

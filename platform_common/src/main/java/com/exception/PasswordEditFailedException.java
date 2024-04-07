@@ -1,4 +1,4 @@
-package com.sky.exception;
+package com.exception;
 
 /**
  * 密码修改失败异常

@@ -1,4 +1,4 @@
-package com.sky.exception;
+package com.exception;
 
 /**
  * 登录失败

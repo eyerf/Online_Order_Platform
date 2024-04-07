@@ -2,10 +2,10 @@ package com.sky.service.impl;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
-import com.sky.constant.MessageConstant;
+import com.constant.MessageConstant;
 import com.sky.dto.UserLoginDTO;
 import com.sky.entity.User;
-import com.sky.exception.LoginFailedException;
+import com.exception.LoginFailedException;
 import com.sky.mapper.UserMapper;
 import com.sky.properties.WeChatProperties;
 import com.sky.service.UserService;

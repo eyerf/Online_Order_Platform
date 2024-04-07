@@ -1,4 +1,4 @@
-package com.sky.exception;
+package com.exception;
 
 public class ShoppingCartBusinessException extends BaseException {
 

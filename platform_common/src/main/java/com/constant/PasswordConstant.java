@@ -1,4 +1,4 @@
-package com.sky.constant;
+package com.constant;
 
 /**
  * 密码常量

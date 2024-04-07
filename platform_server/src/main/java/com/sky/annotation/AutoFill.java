@@ -1,6 +1,6 @@
 package com.sky.annotation;
 
-import com.sky.enumeration.OperationType;
+import com.enumeration.OperationType;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package com.sky.exception;
+package com.exception;
 
 /**
  * 账号被锁定异常

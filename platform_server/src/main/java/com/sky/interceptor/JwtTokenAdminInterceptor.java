@@ -1,7 +1,7 @@
 package com.sky.interceptor;
 
-import com.sky.constant.JwtClaimsConstant;
-import com.sky.context.BaseContext;
+import com.constant.JwtClaimsConstant;
+import com.context.BaseContext;
 import com.sky.properties.JwtProperties;
 import com.sky.utils.JwtUtil;
 import io.jsonwebtoken.Claims;

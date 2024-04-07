@@ -1,6 +1,6 @@
 package com.sky.service.impl;
 
-import com.sky.constant.StatusConstant;
+import com.constant.StatusConstant;
 import com.sky.entity.Orders;
 import com.sky.mapper.DishMapper;
 import com.sky.mapper.OrderMapper;
