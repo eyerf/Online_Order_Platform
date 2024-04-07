@@ -19,7 +19,7 @@
 
         <dependency>
             <groupId>com.sky</groupId>
-            <artifactId>sky-pojo</artifactId>
+            <artifactId>platform_pojo</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 

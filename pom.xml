@@ -14,7 +14,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>platform_common</module>
-        <module>sky-pojo</module>
+        <module>platform_pojo</module>
         <module>sky-server</module>
     </modules>
     <properties>
